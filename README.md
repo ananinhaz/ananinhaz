@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-✨Bacharelanda em Engenharia de Software pela Católica de Santa Catarina.<br><br>👩🏻‍💻Atuando como Analista de TI.<br><br>🎯Estou constantemente buscando novos desafios e oportunidades para ampliar meu conhecimento e crescer na área de desenvolvimento.
+✨Bacharelanda em Engenharia de Software pela Católica de Santa Catarina.<br><br>🎯Estou constantemente buscando novos desafios e oportunidades para ampliar meu conhecimento e crescer na área de desenvolvimento.
 
 
 ## 🌐 Socials:
